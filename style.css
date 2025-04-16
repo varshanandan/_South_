@@ -1,0 +1,192 @@
+#div1{
+    position:relative;
+    height:150px;
+    z-index:1;
+    margin-left: 0;
+    margin-right: 0;
+    width:100%;
+}
+#div2{
+    position: absolute;
+    width:150px;
+    z-index: 2;
+    top: 10px;
+    left:150px;
+    bottom:5px;
+    img{
+        opacity:0.9;
+    }
+}
+.trade{
+    position:absolute;
+    z-index:3;
+    color:white;
+    right:250px;
+    top:50px;
+    font-family: serif;
+}
+h2{
+    padding-left: 100px;
+    padding-top: 5px;
+    font-size:20px;
+}
+p{
+    column-count: 2;
+    column-gap: 50px;
+    padding-left: 100px;
+    padding-right: 120px;
+    text-indent:50px;
+    text-align: justify;
+    padding-top: 1px;
+}
+div{
+    text-align: center;
+}
+h3{
+    padding-left: 120px;
+    
+}
+table,tr{
+    border:2px solid white;
+    margin:auto;
+}
+table{
+    border-spacing:15px;
+}
+h4{
+    font-weight:normal;
+    text-align:center;
+
+}
+ul{
+    text-align: justify;
+    text-indent: 45%;
+    list-style-type: none;
+}
+#clas{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+    padding-bottom: 2px;
+}
+#second{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+    padding-top: 1px;
+}
+#leaf{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+}
+#four{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+}
+#that{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+}
+#than{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+}
+#their{
+    text-indent:50px;
+    column-count: 1;
+    padding-left: 150px;
+}
+#head{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 180px;
+}
+.name{
+    float:right;
+    margin-right: 120px;
+}
+#para{
+    padding-left: 200px;
+    text-align:justify;
+    padding-right: 100px;
+    column-count: 1;
+    text-indent: 30px;
+}
+#tem,#cls,#data{
+    border:1px solid white;
+    border-collapse:collapse;
+}
+#tem{
+    width:40;
+}
+#cls{
+    color:darkslateblue;
+}
+#first{
+    text-indent: 50px;
+    padding-left: 150px;
+}
+#col,#har,#var{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#kal,#pal,#ref{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#kat,#pen,#all{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#col,#kal{
+    display:inline-block;
+    padding-left: 250px;
+}
+#col,#kal,#kat{
+    display:inline-block;
+    padding-left: 250px;
+}
+#the,#vel,#tim{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#let,#teli,#com{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#oyil,#dance,#natu{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+#the,#let,#oyil{
+    display:inline-block;
+    padding-left: 250px; 
+}
+.tent,.neti{
+    display:inline-block;
+    padding-left: 350px;
+    margin-top: 1px;
+}
+#food{
+    text-align: center;
+}
+.ti,.va,.ra{
+    display:inline-block;
+    padding-left: 250px;
+}
+.ap,.cc,.pu{
+    display:inline-block;
+    padding-left: 250px;
+}
+.po,.utt,.pul{
+    display:inline-block;
+    padding-left: 250px;
+}
+.text{
+    text-align: center;
+    font-weight: normal;
+}
